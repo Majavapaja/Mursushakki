@@ -21,7 +21,7 @@
     "@types/express": "^4.17.11",
     "@types/express-session": "^1.17.3",
     "@types/mocha": "^8.2.2",
-    "@types/mongodb": "^3.6.12",
+    "@types/mongodb": "^3.6.20",
     "@types/passport": "^1.0.6",
     "@types/passport-facebook": "^2.1.10",
     "@types/passport-local": "^1.0.33",
