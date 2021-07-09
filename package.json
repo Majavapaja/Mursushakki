@@ -23,7 +23,7 @@
     "@types/mocha": "^8.2.2",
     "@types/mongodb": "^3.6.12",
     "@types/passport": "^1.0.6",
-    "@types/passport-facebook": "^2.1.10",
+    "@types/passport-facebook": "^2.1.11",
     "@types/passport-local": "^1.0.33",
     "@types/react": "^17.0.4",
     "@types/react-dom": "^17.0.3",
